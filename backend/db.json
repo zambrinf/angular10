@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta bic preta",
+      "name": "Caneta bic pretaasdas",
       "price": 5.89
     },
     {
@@ -24,6 +24,11 @@
       "name": "lapis preto",
       "price": "2.5",
       "id": 5
+    },
+    {
+      "name": "novoteste",
+      "price": "500",
+      "id": 6
     }
   ]
 }
